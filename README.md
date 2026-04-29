@@ -1,4 +1,4 @@
-Bulk RNA-seq analysis-Konstantinos Makris
+Bulk RNA-seq analysis
 
 Pre-processing steps-quality control/trimming/alignment/featurecount table 
 •	Download the mouse/human genome from NCBI or ENSEMBL in order to index the genome and use STAR to index-Keep all the files at the same folder in order to use STAR mapper.
